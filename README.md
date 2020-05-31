@@ -1,8 +1,8 @@
 # Fish Follow (ROS melodic package) 
 
-A **ROS** melodic package to follow a fish movement inside water tank using USB camera, movement of the fish are translate motor velocity signal and drive an Holonomic robot.
+A **ROS** melodic package. Follow fish movement inside water tank using USB camera, fish movment translate to motor velocity signal and drive an Holonomic robot.
 
-# package dependencies
+# Package dependencies
 
 ### 1. rossirieal:
 >[https://github.com/ros-drivers/rosserial](https://github.com/ros-drivers/rosserial)
